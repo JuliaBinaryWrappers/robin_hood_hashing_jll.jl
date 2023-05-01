@@ -1,0 +1,6 @@
+[robin_hood_hashing]
+git-tree-sha1 = "f0dc40351995a5593e3e1d6a6a359479df136a53"
+
+    [[robin_hood_hashing.download]]
+    sha256 = "2e3480ab8de313eacc6244893749654776ccf5db45197f5d11ecfaf36b0376d4"
+    url = "https://github.com/JuliaBinaryWrappers/robin_hood_hashing_jll.jl/releases/download/robin_hood_hashing-v3.11.5+0/robin_hood_hashing.v3.11.5.any.tar.gz"
